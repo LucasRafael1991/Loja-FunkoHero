@@ -1,0 +1,28 @@
+button {
+  background: linear-gradient(#fe7467, #fc3836);
+  border-radius: 17px;
+  padding: 13px;
+  width: 240px;
+  margin-top: 15px;
+  border-style: none;
+  cursor: pointer;
+}
+button a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+/* início dos botoes de comprar da página catálogo*/
+.comprar {
+  background: linear-gradient(#fe7467, #fc3836);
+  border-radius: 17px;
+  padding: 8px;
+  width: 120px;
+  margin-top: 15px;
+  border-style: none;
+  margin-left: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
